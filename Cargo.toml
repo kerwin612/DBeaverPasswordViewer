@@ -2,6 +2,12 @@
 name = "DBeaverPasswordViewer"
 version = "0.1.0"
 edition = "2021"
+authors = ["kerwin612 <kerwin612@qq.com>"]
+description = "A tool for viewing DBeaver Community Edition passwords"
+repository = "https://github.com/kerwin612/DBeaverPasswordViewer"
+keywords = ["dbeaver", "rust-app"]
+license-file = "LICENSE"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
